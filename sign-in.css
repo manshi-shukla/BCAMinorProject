@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background:linear-gradient(to right, blue ,black);
+}
+
+.container{
+    width: 400px;
+    height: 400x;
+    background-color: white;
+    margin:10%;
+    /* text-align: center; */
+
+}
+
+.logo-size{
+    width: 150px;
+    margin-left: 20%;
+    
+}
+a{
+    text-decoration: none;
+}
+
+.container h1{
+         margin-left: 30%;
+         color: rgba(0, 0, 255, 0.765);
+} 
